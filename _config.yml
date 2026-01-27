@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Vy Bui"
-  avatar : "/assets/images/bio-portrait.png"
+  avatar : "/assets/images/bio-photo.png"
   bio    : "My website for Spring 26 Introduction to Digital Humanities course!"
   links:
     - label: "Website"
