@@ -7,3 +7,5 @@ main:
     url: /final/
   - title: "Tags"
     url: /tags/
+  - title: "DLN"
+    url: /dln/
