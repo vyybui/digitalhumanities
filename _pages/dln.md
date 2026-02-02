@@ -1,5 +1,5 @@
 ---
-title: "Schedule S26"
+title: "Digital Literacy Narrative S26"
 permalink: /dln/
 ---
 
