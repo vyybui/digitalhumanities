@@ -3,7 +3,7 @@ title: "Digital Literacy Narrative S26"
 permalink: /dln/
 ---
 
-## Step 1 \(due February 3\)
+## Step 1 \(due February 3, 2026\)
 ### Claude Haiku 4.5
 
 As an 18-year-old Computer Science major, I find myself at an interesting crossroads where traditional computational thinking collides with the humanistic inquiry of digital humanities. When I reflect on my digital literacy, I realize it extends far beyond syntax and algorithms—it encompasses the ability to navigate, create, and critically evaluate information across multiple platforms and disciplines.
