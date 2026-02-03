@@ -3,9 +3,9 @@ main:
     url: /digital-narrative/
   - title: "Assignments"
     url: /assignments/
+  - title: "DLN"
+    url: /dln/
   - title: "Final Presentation"
     url: /final/
   - title: "Tags"
     url: /tags/
-  - title: "DLN"
-    url: /dln/
