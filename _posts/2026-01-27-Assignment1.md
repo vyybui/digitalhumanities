@@ -18,9 +18,10 @@ They also introduced REDCap, a survey and data collection tool, which is suppose
 * [Human Research Protection Program](https://nyuad.nyu.edu/en/research/facilities-and-support/human-research-protection-program.html) -- This *Human Research Protection Program* is NYU Abu Dhabi specific. Similar to the New York's website, there are also application instructions and guides for researchers to follow. The website contains information about the *Research Ethics Committee (REC)* which is for Abu Dhabi based biomedical research (involving human tissue sampling) (Abu Dhabi specific because it follows *Abu Dhabi Department of Health*'s policy).
 * [REDCap](https://project-redcap.org/) -- a web application for building and managing online surveys and databases. NYU recommeneded this application to conduct questionnaires and forms for research purposes.
 #### Screenshots of the Meeting
-![Screenshot of Meeting](assets/feb13_1.jpg)
+Unfortunately, I wasn't able to directly attach the screenshots on here. Please see this Google Drive folder: [LoveDataWeekMeeting](https://drive.google.com/drive/folders/1AvTpsjyl3NoSEcjVeGayVBprnWqwuoZf?usp=sharing) for my screenshots.
+<!-- ![Screenshot of Meeting](assets/feb13_1.jpg)
 ![Screenshot of Meeting](assets/feb13_2.jpg)
-![Screenshot of Meeting](assets/feb13_3.jpg)
+![Screenshot of Meeting](assets/feb13_3.jpg) -->
 ### Reflection
 I personally do not see myself having to conduct these type of researches in the future (we will see hehe) although being a researcher is really cool and I would love to carry out my own human-involved research one day. That said, I still find this meeting to be a very valuable session as it gives me a much much better idea of research in humanities. It is basically eye-opening. I did not know too much about human research and definitely did not expect it to be so complicated. Part of the reason why it's so interesting is because it involves ethics. This is much more absent in experimental research (which I am more familiar with).
 In terms of connection with our course, I think that it reshapes my understanding of humanities overall. While 'humanities' can seem intuitively at times, that definitely is not the case with research. Gathering data, collecting data, manipulating data, is already a difficult task by itself. But since it is not just any data, it's HUMAN data, sometimes the stakes are higher and the process is more complicated.
