@@ -29,11 +29,12 @@ I hypothesis that there will be a mix of 'art history' content and 'the practice
 ## Analysis
 My corpus selection covers a wide-range of topics in Art, so it was definitely going to be interesting conducting distant reading. As instructed, I used Voyant Tools and RMarkdown on Posit Cloud, both of which are tools we have used in class, to do the distant reading. As I was playing around with the tools, I've taken notes of interesting details below.
 ### Visualizations
-Photo #1: 
+Description of RMarkdown & Voyant Tools and how I used them.
 #### RMarkdown
 I really enjoy the **color-coded word cloud** feature in RMarkdown. It allows me to see which group of words belongs to which text, which gives me a better idea of which aspect of art they are talking about. They also help me confirm (or reject) my initial hypothesis about the content of these books. However, a potential set back might be that this word cloud does not distinguish words that appear in 2 or more books, which can potentially mislead my interpretation of the corpus.
 
-*insert photo of colorcoded wc*
+![Word cloud](assets/a1ccwc.png)
+
 *My color-coded word cloud for my corpus (5 texts)*
 
 What I learned in this process too, is to play around with the code! I was experiencing issues with the legend being too big and covering almost all of the word cloud, but then I did a bit of research and learned some parameters I could add to shrink the legend.
@@ -41,6 +42,8 @@ What I learned in this process too, is to play around with the code! I was exper
 This is the **Scaled Frequency Heat Map**. The words I've chosen are all Italian-related. I was curious to see how often (or not) Italy was mentioned in the corpus. Before my actually running the code, I hypothesized that the book *The Venetian School of Painting by Evelyn March Phillipps (30098)* will allude to Italy the most, for obvious reasons. Initally, I was worry that this specific text would skew the dataset because of the specificity of the geographical location, but the results of the frequency heat map completely surprised me!
 
 The words I've chosen are: Rome, Florence, Venice (primary Italian cities associated with artistic developments (partially due to the Silk Road trading)), Titian (a very famous Italian painter), and Italy. The photo below shows the map.
+
+![Scaled Frequency Heat Map](assets/a1heatmap.png)
 
 *My Scaled Frequency Heat Map for Italy-related terms*
 
