@@ -1,10 +1,8 @@
 main:
-  - title: "Narratives"
+  - title: "Narrative"
     url: /digital-narrative/
   - title: "Assignments"
     url: /assignments/
-  - title: "DLN"
-    url: /dln/
   - title: "Final Presentation"
     url: /final/
   - title: "Tags"
