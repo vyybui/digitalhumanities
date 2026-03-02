@@ -1,9 +1,11 @@
 ---
 title: "Post: Love Data Week Reflection (Extra Credit)"
 excerpt_separator: "<!--more-->"
+categories:
+  - Assignment
 tags:
   - assignment
-  - text
+  - extra credit
 ---
 
 ### Details on the event
