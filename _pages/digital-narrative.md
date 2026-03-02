@@ -1,6 +1,6 @@
 ---
 title: "Digital Literacy Narrative S26"
-permalink: /dln/
+permalink: /digital-narrative/
 ---
 
 ## Step 1 \(due February 3, 2026\)
