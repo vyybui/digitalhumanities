@@ -33,10 +33,13 @@ Description of RMarkdown & Voyant Tools and how I used them.
 #### RMarkdown
 I really enjoy the **color-coded word cloud** feature in RMarkdown. It allows me to see which group of words belongs to which text, which gives me a better idea of which aspect of art they are talking about. They also help me confirm (or reject) my initial hypothesis about the content of these books. However, a potential set back might be that this word cloud does not distinguish words that appear in 2 or more books, which can potentially mislead my interpretation of the corpus.
 
-
 <figure>
-  <img src="assets/a1ccwc.png" alt="Word cloud">
+  <img src="{{ '/assets/images/a1ccwc.png' | relative_url }}" alt="Word cloud">
 </figure>
+
+<!-- <figure>
+  <img src="assets/a1ccwc.png" alt="Word cloud">
+</figure> -->
 
 <!-- ![Word cloud](assets/a1ccwc.png) -->
 
@@ -48,8 +51,11 @@ This is the **Scaled Frequency Heat Map**. The words I've chosen are all Italian
 
 The words I've chosen are: Rome, Florence, Venice (primary Italian cities associated with artistic developments (partially due to the Silk Road trading)), Titian (a very famous Italian painter), and Italy. The photo below shows the map.
 
-<figure>
+<!-- <figure>
   <img src="assets/a1heatmap.png" alt="Scaled Frequency Heat Map">
+</figure> -->
+<figure>
+  <img src="{{ '/assets/images/a1heatmap.png' | relative_url }}" alt="Scaled Frequency Heat Map">
 </figure>
 
 <!-- ![Scaled Frequency Heat Map](assets/a1heatmap.png) -->
