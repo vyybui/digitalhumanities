@@ -37,12 +37,6 @@ I really enjoy the **color-coded word cloud** feature in RMarkdown. It allows me
   <img src="{{ '/assets/images/a1ccwc.png' | relative_url }}" alt="Word cloud">
 </figure>
 
-<!-- <figure>
-  <img src="assets/a1ccwc.png" alt="Word cloud">
-</figure> -->
-
-<!-- ![Word cloud](assets/a1ccwc.png) -->
-
 *My color-coded word cloud for my corpus (5 texts)*
 
 What I learned in this process too, is to play around with the code! I was experiencing issues with the legend being too big and covering almost all of the word cloud, but then I did a bit of research and learned some parameters I could add to shrink the legend.
@@ -51,14 +45,9 @@ This is the **Scaled Frequency Heat Map**. The words I've chosen are all Italian
 
 The words I've chosen are: Rome, Florence, Venice (primary Italian cities associated with artistic developments (partially due to the Silk Road trading)), Titian (a very famous Italian painter), and Italy. The photo below shows the map.
 
-<!-- <figure>
-  <img src="assets/a1heatmap.png" alt="Scaled Frequency Heat Map">
-</figure> -->
 <figure>
   <img src="{{ '/assets/images/a1heatmap.png' | relative_url }}" alt="Scaled Frequency Heat Map">
 </figure>
-
-<!-- ![Scaled Frequency Heat Map](assets/a1heatmap.png) -->
 
 *My Scaled Frequency Heat Map for Italy-related terms*
 
@@ -67,10 +56,23 @@ I did not expect to see Italy being referenced in books other than *30098*. Howe
 #### Voyant Tools
 Something that Voyant Tools allows me to do (easily) is to add additional stopwords. My texts are all from Project Gutenberg, so I wanted to remove any irrelevant watermarks out of the dataset (which becomes more clear when they appear on wordclouds). Specificaly, the words I have added to the default stopword list on Voyant Tools are: Project; Gutenberg; sec; footnote; eBook; chapter
 
-* Trend Graph
+**Word Cloud iFrame**
+
+Unlike the previous word cloud made with RMarkdown, this Voyant word cloud is not color-coded, and the words shown are based on their popularity across all 5 items in the corpus. I decided to include this word cloud as an iFrame because I thought that it would be interesting to see how the cloud changes as the number of term increases. The slider at the bottom allows us to choose the size of the cloud.
+<iframe style='width: 100%; height: 600px;' src='https://voyant-tools.org/?view=Cirrus&stopList=keywords-5ffb051b33a7904b7bdc3962d116a70c&corpus=5b0f5687b3374202f5ab53af19474e4d'></iframe>
+
+**Other Tools**
+
+Besides Italian-related terms, I also noticed a number of religion-related words. In order to see the relationship between each book and religion, I used a *trend graph* to map out the relative frequencies of words such as: religion, religious, church, god, saint.
+<figure>
+  <img src="{{ '/assets/images/a1trend.png' | relative_url }}" alt="Trend Graph for Religion-related words">
+</figure>
+
+*Trend Graph for Religion-related Terms*
+
+The relative frequency of each word, calculated by XXXX, shows how 'dense' it appears throughout the text. From the graph, we can see that all texts, except for one (book *14264*), have *some* mention of religion. From the title of book *14264* -- The Practice and Science of Drawing by Harold Speed -- perhaps this book focuses on the technical aspect of drawing, rather than the cultural context around it. "Church" is mentioned significantly more in book *25323* and so is "Saint" in *30098*. From this graph, we can see that there is a potential relationship between art history and the Church, since it probably is not a coincident that 4/5 of the books I've chosen has religious terms.
+
 * Berry
-* Word cloud iFrame
-<iframe style='width: 100%; height: 800px;' src='https://voyant-tools.org/?view=Cirrus&stopList=keywords-5ffb051b33a7904b7bdc3962d116a70c&corpus=5b0f5687b3374202f5ab53af19474e4d'></iframe>
 
 ## Reflection
 
