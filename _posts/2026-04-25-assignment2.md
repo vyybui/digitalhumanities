@@ -9,4 +9,4 @@ tags:
 ---
 
 ## DEMO FILE
-<iframe src="https://vyybui.github.io/hostedmaps/main.html" width="100%" height="500"></iframe> 
+<iframe src="https://vyybui.github.io/hostedmaps/index.html" width="100%" height="500"></iframe> 
