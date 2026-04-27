@@ -27,6 +27,6 @@ There were very few people in the meeting, which was surprising, because I feel 
 
 ### Reflection
 I think it's a really interesting workshop, and I learned a lot from it as well. I actually have classes that requires me to present my final project in the form of a website, so learning about these static sites and the existing templates was super helpful! The hosts of the workshop were also really friendly, I think they were also an NYU alumni. Anyway, I would 100% recommend this workshop, there is a perfect balance between learning about static sites & exploring websites templates on our own.
-I also remember asking them if I can publish my GitHub site on a previously bought domain, and they said it is very much possible! The reason why I'm asking is because I'm in the middle of building my own portfolio website, and I wish to have a custom domain for it in the future. 
+I also remember asking them if I can publish my GitHub site on a previously bought domain, and they said it is very much possible! The reason why I'm asking is because I'm in the middle of building my own portfolio website, and I wish to have a custom domain for it in the future. But overall, super insightful and fun workshop!
 
 **READY FOR GRADING**

@@ -17,9 +17,21 @@ We briefly looked at the context of the text in order to understand it a bit bet
 ### Manual geocoding process on Recogito
 Through the use of Recogito, it was surprising to see how many locations could be registered, as well as those that could not be found. From the beginning, it became clear that the places that were easier to locate were countries. For example, Recogito easily identified mentions of England, Africa, Arabia, and Syria, among others. Then, there were the places that, despite having slightly lesser-known or outdated names, were still identified by the system, such as Aden, Hadhrami (recognized as Hadramawt in Yemen), Maskkat (recognized as Muscat in Oman), Hindustani, or Shibahm. 
 
+<figure>
+  <img src="{{ '/assets/images/makalla.png' | relative_url }}" alt="Screenshot of Recogito">
+</figure>
+
+*the different variations of Makalla in Recogito*
+
 Nonetheless, even though Recogito recognized these places, it struggled to identify more specific locations within them. Makalla was one of the places we struggled the most to locate, as it appeared under different names in the GeoNames search bar. The closest match suggested that it was most likely Al Mukalla. Similarly, another location we struggled to locate was “Mareb”, whose closest association appeared to be“Ma’rib” in Yemen.
 
 If a place has one or two name variations, Recogito would still be able to recognize it (example: Muscat and Maskat). However, like Muscat, many of the locations Recogito was able to identify are popular, big cities (or a continent/region/country). With small or historical locations like the Wadis, it struggles a bit more. During this process, we had to manually look up the latitude and longitude of these places on Google, using websites like GeoNames or Geoviews (ye.geoview.info) to obtain the data. This raised some questions regarding what makes a location more identifiable within Recogito. For instance, if a place is located manually and its coordinates are inserted as a comment when highlighting it, does this help the system recognize and retain that location for future texts evaluated on the platform? Additionally, the variation and evolution of place names raises further uncertainty, whether these discrepancies stem from inaccuracies in the original text or from limitations within the recognition system itself.
+
+<figure>
+  <img src="{{ '/assets/images/positerror.png' | relative_url }}" alt="Screenshot of Zoom Meeting">
+</figure>
+
+*a bug in PositCloud that we were able to fix thanks to Professor*
 
 A factor that clearly affected the process of geocoding, and translating the textual data into mapped locations in PositCloud, was ensuring that each location was accurate in relation to the context of the text, as well as manually adding locations when they were not present. This is something that requires a level of human interpretation that an automated system could not fully replicate. For example, if I were to ask ChatGPT to generate code, it would produce a functional output; however, without precise instructions and contextual grounding, it would not necessarily yield the desired results. Similarly, in geocoding human input is essential to verify the accuracy of the data data as there is always a possibility of error when relying solely on automated systems. 
 
